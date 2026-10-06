@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Yasir 👋
 
-**SharePoint & Frontend Developer** with 2+ years of experience building SPFx web parts, dashboards, and Power Platform solutions.
+**SharePoint & Frontend Developer** with 3 years of experience building SPFx web parts, dashboards, and Power Platform solutions.
 
 ## What I do
 - Build custom **SPFx web parts** with React and TypeScript for SharePoint Online and On-Premises
